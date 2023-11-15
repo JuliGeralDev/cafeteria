@@ -1,0 +1,9 @@
+@use 'valiables' as v;
+
+.text-center{
+    text-align: center;
+}
+
+.bg-primario{
+    background-color: v.$primario;
+}
