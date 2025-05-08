@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/JuliCoDev/cafeteria.git"
+    "url": "git remote add origin https://github.com/JuliGeralDev/cafeteria.git"
   },
   "keywords": [
     "SASS"
   ],
-  "author": "Juliana Garcia Corredor (JuliCoDev)",
+  "author": "Juliana Garcia Corredor [JuliGeralDev](https://github.com/JuliGeralDev)",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.16",
